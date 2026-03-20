@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+profile!;I+build.+I+learn.+I+grow.;Future+Full+Stack+Developer;Consistency+is+my+power+💪&center=true&width=600&height=50">
 </p>
 
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-sah-592b86386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahprince4454@gmail.com) 
-
+------------
 
 
 
@@ -94,10 +91,18 @@ Consistency: █████████░ 90%<br>
 ✨ PARTICPATING IN HACK-A-THONS AND CODING COMPETITON<br>
 
 ---
-
-## 🤝 Connect With Me
-- 📫 Email: sahprince4554@example.com  
-- 💬 Open for collaboration  
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-sah-592b86386" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:sahprince4454@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://prince-sah-codes.github.io/portfolio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 ---
 
