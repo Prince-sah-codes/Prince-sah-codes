@@ -65,10 +65,10 @@
 
 ## 🧠 Currently Leveling Up
 
-DSA: ███████░░░ 70%
-Web Dev: ███░░░░░░ 30%
-Problem Solving: ██████░░░ 60%
-Consistency: █████████░ 90%
+DSA: ███████░░░ 70%<br>
+Web Dev: ███░░░░░░ 30%<br>
+Problem Solving: ██████░░░ 60%<br>
+Consistency: █████████░ 90%<br>
 
 
 ---
