@@ -46,7 +46,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 MY PORTFOLIO WEBSITE
+- 🔹 MY PORTFOLIO WEBSITE , CLICK HERE <a href="https://prince-sah-codes.github.io/portfolio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="20"  />
+  </a>
 - 🔹 MINI BANK APP WITH PYTHON 
 - 🔹 CALCULATOR APP
 - 🔹 TODO LIST   
