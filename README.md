@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Prince-sah-codes/Prince-sah-codes/blob/main/new.png" width="150" alt="Prince Sah"/>
 </p>
-<h1 align="center">🚀 Prince Sah</h1>
+<h1 align="center"><b><u>Prince Sah</b></h1>
 <h3 align="center">B.Tech CSE Student | Future Software Engineer | Tech Explorer</h3>
 
 <p align="center">
