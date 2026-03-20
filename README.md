@@ -7,7 +7,7 @@
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alok-kumar-436b88386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahprince4454@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-sah-592b86386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahprince4454@gmail.com) 
 
 
 
